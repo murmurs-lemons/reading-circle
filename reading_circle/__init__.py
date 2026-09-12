@@ -1,4 +1,4 @@
 """Local utility package for ReadingCircle."""
 
 __all__ = ["__version__"]
-__version__ = "0.31.0"
+__version__ = "0.32.0"
